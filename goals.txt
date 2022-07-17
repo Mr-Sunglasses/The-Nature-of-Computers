@@ -1,0 +1,21 @@
+1 - Python
+2 - JavaScript and TypeScript
+3 - Go Language
+4 - Java 
+
+
+
+1 - Linux, Vim and Shell Scripting
+2 - Git + GitHub
+3 - DataBase {
+    1 - SQL
+    2 - MONGODB
+    3 - FireBase
+    4 - Reddis
+}
+
+
+1 - Full Stack Web Development
+2 - Mobile App Development
+3 - DSA; Design Pattern ; SystemDesign
+4 - Devops
